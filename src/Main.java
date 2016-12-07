@@ -1,7 +1,6 @@
-import java.util.ArrayList;
 import java.util.Scanner;
 
-/** Created by navjot on 6/12/16. **/
+/** Created by Nav on 6/12/16. **/
 public class Main {
 
     private static Scanner scanner = new Scanner(System.in);
@@ -23,6 +22,7 @@ public class Main {
         }else{
             System.out.println("See you soon...");
         }
+
 
     }
 

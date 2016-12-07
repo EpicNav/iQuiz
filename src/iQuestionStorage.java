@@ -1,6 +1,4 @@
-/**
- * Created by navjot on 6/12/16.
- */
+/** Created by Nav on 6/12/16. **/
 public class iQuestionStorage {
     private int uniqueID;
     private String question;
